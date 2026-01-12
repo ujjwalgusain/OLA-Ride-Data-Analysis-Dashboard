@@ -1,4 +1,5 @@
 # OLA-Ride-Data-Analysis-Dashboard
+
 1. Project Title
 🚖 OLA Ride Analytics: End-to-End SQL & Power BI Dashboard
 An end-to-end analytical project that extracts, transforms, and visualizes OLA ride data — uncovering booking trends, revenue patterns, cancellation reasons, and customer/driver ratings to drive performance insights.
@@ -22,7 +23,8 @@ Booking ID, Date & Time, Vehicle Type, Payment Method
 Ride Distance, Booking Value, Booking Status
 Cancellation Reasons (Customer & Driver)
 Customer Ratings & Driver Ratings
-5. Features / Highlights
+
+ Features / Highlights
 Business Problem
 Ride-hailing companies need a unified way to monitor performance, track revenue, and identify service issues such as cancellations and low ratings.
 Disparate tables and raw logs make it difficult to pinpoint inefficiencies and trends.
@@ -48,3 +50,4 @@ Customer Retention: Identified top customers and vehicle preferences for loyalty
 Revenue Optimization: Insights into payment method trends for targeted promotions.
 Service Improvement: Highlighted major causes of cancellations for operational fixes.
 Performance Monitoring: Enabled tracking of driver and customer satisfaction levels.
+
